@@ -69,7 +69,7 @@ afterEvaluate {
             create<MavenPublication>("release") {
                 from(components["release"])
                 groupId = "com.github.aticiadem"
-                artifactId = "MyLibrarySample"
+                artifactId = "show-text"
                 version = "1.1"
             }
         }
