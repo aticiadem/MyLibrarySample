@@ -1,4 +1,4 @@
-package com.adematici.firstsamplelibrary.ui
+package com.adematici.showtext.ui
 
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable

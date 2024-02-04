@@ -1,4 +1,4 @@
-package com.adematici.firstsamplelibrary.ui.theme
+package com.adematici.showtext.ui.theme
 
 import android.app.Activity
 import android.os.Build

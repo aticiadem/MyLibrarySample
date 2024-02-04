@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.adematici.firstsamplelibrary"
+    namespace = "com.adematici.showtext"
     compileSdk = 34
 
     defaultConfig {

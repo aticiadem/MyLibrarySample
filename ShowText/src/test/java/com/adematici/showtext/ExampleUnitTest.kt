@@ -1,4 +1,4 @@
-package com.adematici.firstsamplelibrary
+package com.adematici.showtext
 
 import org.junit.Test
 

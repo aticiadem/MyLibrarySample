@@ -9,7 +9,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.adematici.firstsamplelibrary.ui.ShowYourName
+import com.adematici.showtext.ui.ShowYourName
 import com.adematici.mylibrarysample.ui.theme.MyLibrarySampleTheme
 
 class MainActivity : ComponentActivity() {

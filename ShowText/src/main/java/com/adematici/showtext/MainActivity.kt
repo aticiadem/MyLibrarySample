@@ -1,4 +1,4 @@
-package com.adematici.firstsamplelibrary
+package com.adematici.showtext
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,8 +7,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.adematici.firstsamplelibrary.ui.ShowYourName
-import com.adematici.firstsamplelibrary.ui.theme.MyLibrarySampleTheme
+import com.adematici.showtext.ui.ShowYourName
+import com.adematici.showtext.ui.theme.MyLibrarySampleTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

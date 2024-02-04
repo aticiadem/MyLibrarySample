@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MyLibrarySample"
 include(":app")
-include(":firstsamplelibrary")
+include(":ShowText")
